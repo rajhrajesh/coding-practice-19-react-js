@@ -58,7 +58,7 @@
   align-items: center;
   width: 320px;
   height: 250px;
-  background-image: url('https://assets.ccbp.in/frontend/react-js/diqitaltimer-elapsed-bg.pnq'); /* You need to provide a valid URL here */
+  background-image: url("https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png"); /* You need to provide a valid URL here */
   background-size: cover;
   background-position: center;
 }
